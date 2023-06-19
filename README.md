@@ -1,2 +1,2 @@
 # curso-ebac-frontend
- Meu Primeiro repositório na Ebac
+ Meu Primeiro repositorio na Ebac
